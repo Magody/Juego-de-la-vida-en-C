@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499745456 source:c:\users\user\documents\programacion1\juego de la vida resumido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

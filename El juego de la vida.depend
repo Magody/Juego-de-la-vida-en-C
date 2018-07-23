@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1500438537 source:c:\users\user\documents\programacion1\el juego de la vida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"matrizPrincipal.h"
+	"vecindadCelula.h"
+	"inicializacion.h"
+
+1499307098 c:\users\user\documents\programacion1\el juego de la vida\funcionesvida.h
+
+1500438117 c:\users\user\documents\programacion1\el juego de la vida\matrizprincipal.h
+
+1500437932 c:\users\user\documents\programacion1\el juego de la vida\vecindadcelula.h
+
+1500438359 c:\users\user\documents\programacion1\el juego de la vida\inicializacion.h
+
